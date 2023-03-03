@@ -1,3 +1,6 @@
 pyspark
+findspark # unnecessary
 ipykernel
 nbformat
+pandas
+pyarrow
