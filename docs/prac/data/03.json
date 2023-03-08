@@ -1,0 +1,13 @@
+{
+    "name": "John",
+    "age": 25,
+    "gender": "male",
+    "hobbies": ["reading", "gaming", "coding"],
+    "address": {
+      "city": "New York",
+      "state": "NY",
+      "zip": 10001
+    },
+    "married": false,
+    "children": null
+  }

@@ -4,3 +4,10 @@ ipykernel
 nbformat
 pandas
 pyarrow
+nbconvert # unnecessary
+
+# Documentation
+mkdocs
+mknotebooks
+mkdocs-material
+mkdocs-print-site-plugin
