@@ -2,7 +2,7 @@ site_name: prac-pyspark
 site_url: https://github.com/hsiangjenli/prac-pyspark
 
 # TODO Folder for documents ---------------------------------------------------------------------- #
-docs_dir: docs
+docs_dir: prac
 
 copyright: Copyright &copy; 2023 Hsiang-Jen Li | RN
 
@@ -11,7 +11,7 @@ repo_name: prac-pyspark
 
 # TODO Documents path ---------------------------------------------------------------------------- #
 nav:
-  - "03": "prac/03-PySpark-Basic-Operations.ipynb"
+  - "03": "03-PySpark-Basic-Operations.ipynb"
 
 # Theme ------------------------------------------------------------------------------------------------
 theme:
